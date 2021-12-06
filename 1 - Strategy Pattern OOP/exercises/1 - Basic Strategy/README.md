@@ -1,4 +1,4 @@
 ## TODO
 
-- [ ] Implements a `constructor(paymentMethod)` to `OnlinePayment`
-- [ ] Implements a `.pay()` to `OnlinePayment`
+- [x] Implements a `constructor(paymentMethod)` to `OnlinePayment`
+- [x] Implements a `.pay()` to `OnlinePayment`
