@@ -1,6 +1,6 @@
 ## TODO
 
-Well, now that we have a payment for online payment page, our BOSS wants
+Well, now that we have a payment for our online store, our BOSS wants
 to implement a new PaymentMethod for BravaPay :)
 
 - [ ] Implements a `BravaPay.pay()` method
