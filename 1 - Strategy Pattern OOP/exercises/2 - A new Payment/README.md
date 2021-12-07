@@ -3,10 +3,10 @@
 Well, now that we have a payment for our online store, our BOSS wants
 to implement a new PaymentMethod for BravaPay :)
 
-- [ ] Implements a `BravaPay.pay()` method
-- [ ] Must log a message that is calling bravapay `BravaPay calls api` (or
+- [x] Implements a `BravaPay.pay()` method
+- [x] Must log a message that is calling bravapay `BravaPay calls api` (or
 something like that)
-- [ ] Must return a `new Date().getTime()`
+- [x] Must return a `new Date().getTime()`
 
 Expected output is:
 
