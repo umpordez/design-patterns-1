@@ -13,7 +13,7 @@ Expected output is:
 ```
 BravaPay calls api
 
-Deividy paid the bill using BravaPay
+YourName paid the bill using BravaPay
 Payment id: 1638870064559
 ```
 
