@@ -26,7 +26,7 @@ class BravaPay extends PaymentAdapter {
 }
 
 class Client {
-    PreferablePaymentMethod = PagSeguro;
+    PreferablePaymentAdapter = PagSeguro;
 
     constructor(name) {
         this.name = name;
@@ -34,7 +34,7 @@ class Client {
 }
 
 class OnlinePayment {
-    constructor(client, PaymentClass = client.PreferablePaymentMethod) {
+    constructor(client, PaymentClass = client.PreferablePaymentAdapter) {
         this.client = client;
         this.paymentMethod = new PaymentClass(client);
 
