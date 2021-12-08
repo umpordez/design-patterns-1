@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leorf/Documents/projects/personal/umpordez/design-patterns-1/1 - Strategy Pattern OOP/exercises/1 - Basic Strategy/leeorf/OnlinePayment/OnlinePayment/OnlinePayment.csproj": {}
+  },
+  "projects": {
+    "/Users/leorf/Documents/projects/personal/umpordez/design-patterns-1/1 - Strategy Pattern OOP/exercises/1 - Basic Strategy/leeorf/OnlinePayment/OnlinePayment/OnlinePayment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leorf/Documents/projects/personal/umpordez/design-patterns-1/1 - Strategy Pattern OOP/exercises/1 - Basic Strategy/leeorf/OnlinePayment/OnlinePayment/OnlinePayment.csproj",
+        "projectName": "OnlinePayment",
+        "projectPath": "/Users/leorf/Documents/projects/personal/umpordez/design-patterns-1/1 - Strategy Pattern OOP/exercises/1 - Basic Strategy/leeorf/OnlinePayment/OnlinePayment/OnlinePayment.csproj",
+        "packagesPath": "/Users/leorf/.nuget/packages/",
+        "outputPath": "/Users/leorf/Documents/projects/personal/umpordez/design-patterns-1/1 - Strategy Pattern OOP/exercises/1 - Basic Strategy/leeorf/OnlinePayment/OnlinePayment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leorf/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bibliotecas.banese.com.br/repository/nuget-all": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

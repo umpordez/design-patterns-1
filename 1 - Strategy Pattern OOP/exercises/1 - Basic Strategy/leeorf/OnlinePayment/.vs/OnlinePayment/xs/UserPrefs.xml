@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{55348785-8B1F-45A5-A30F-E594D0CD207C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlinePayment" expanded="True">
+            <Node name="OnlinePayment" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Operations" expanded="True">
+                <Node name="MercadoPago.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OnlinePayment PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
