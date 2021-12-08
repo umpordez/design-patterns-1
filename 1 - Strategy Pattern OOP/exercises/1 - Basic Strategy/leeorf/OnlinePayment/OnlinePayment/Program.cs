@@ -8,18 +8,17 @@ namespace OnlinePayment
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Client 1: I want to pay with PayPal!");
-            var payPalPayment = new OnlinePaymentContext(new PayPal());
+            var payPalPayment = new OnlinePaymentContext(new Client("Leo"), new PayPal());
             payPalPayment.executePayment();
 
-            Console.WriteLine("Client 2: I want to pay with Mercado Pago!");
-            var mercadoPagoPayment = new OnlinePaymentContext(new MercadoPago());
+            var bravaPayPayment = new OnlinePaymentContext(new Client("Deividy"), new BravaPay());
+            bravaPayPayment.executePayment();
+
+            var mercadoPagoPayment = new OnlinePaymentContext(new Client("Vanderson"), new MercadoPago());
             mercadoPagoPayment.executePayment();
 
-            Console.WriteLine("Client 3: I want to pay with PicPay!");
-            var picPayPayment = new OnlinePaymentContext(new PicPay());
+            var picPayPayment = new OnlinePaymentContext(new Client("Raul"), new PicPay());
             picPayPayment.executePayment();
         }
     }
 }
-

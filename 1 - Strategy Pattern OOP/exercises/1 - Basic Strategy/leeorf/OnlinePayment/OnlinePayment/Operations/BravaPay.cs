@@ -3,11 +3,11 @@ using OnlinePayment.Interface;
 
 namespace OnlinePayment.Operations
 {
-    public class PicPay : OnlinePaymentStrategy
+    public class BravaPay : OnlinePaymentStrategy
     {
-        private readonly string _name = "PicPay";
+        private readonly string _name = "BravaPay";
 
-        public PicPay()
+        public BravaPay()
         {
         }
 
