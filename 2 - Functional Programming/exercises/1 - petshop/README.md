@@ -1,7 +1,8 @@
 # TODO
 
-Implements the function `scheduleShower()`, the output of this program must
-be something like:
+- [ ] Implements `scheduleShower()` function
+
+The output of this program must be something like:
 
 ```
 > Ohh, its friday! :)
