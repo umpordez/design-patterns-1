@@ -11,12 +11,9 @@
 
 ## About;
 
-Objetivo dessa turma é o nivelamento de conceitos de programação orientada a
-objetos na prática com exemplos em JavaScript e apresentando dois dos Design
-Patterns mais usados em programação dinâmica.
-
-> Programação orientada a objetos é uma forma de escrever e estruturar os
-> nossos códigos parecidos com objetos do mundo real.
+Objetivo da turma é o nivelamento de conceitos de programação orientada a
+objetos e functional programming na prática com exemplos em JavaScript e 
+apresentando dois grandes Design Patterns: `Strategy` and `Oberver`.
 
 ### Schedule
 
