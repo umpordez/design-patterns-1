@@ -1,4 +1,4 @@
-# Design Patterns #1;
+# Design Patterns #001;
 
 > “Each pattern describes a problem which occurs over and over again in our
 > environment, and then describes the core of the solution to that problem,
