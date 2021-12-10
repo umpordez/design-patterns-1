@@ -9,12 +9,6 @@
 
 ---
 
-## About;
-
-Objetivo da turma é o nivelamento de conceitos de programação orientada a
-objetos e functional programming na prática com exemplos em JavaScript e 
-apresentando dois grandes Design Patterns: `Strategy` and `Oberver`.
-
 ### Schedule
 
 - 04/12, 16:30h - OOP and Strategy Pattern
