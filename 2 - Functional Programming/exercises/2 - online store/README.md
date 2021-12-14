@@ -1,7 +1,7 @@
 ## TODO
 
-- [ ] Implements `pay(order, paymentAdapter)` function
-- [ ] Implements `paymentAdapters.paypal()` function
+- [x] Implements `pay(order, paymentAdapter)` function
+- [x] Implements `paymentAdapters.paypal()` function
 
 Expected output is something like:
 
