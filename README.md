@@ -6,12 +6,3 @@
 > without ever doing it the same way twice”
 >
 > Christopher Alexander
-
----
-
-### Schedule
-
-- 04/12, 16:30h - OOP and Strategy Pattern
-- 08/12, 19:30h - Functional Programming
-- 11/12, 16:30h - Observer Pattern
-- 18/12, 16:30h - Node.js Event Loop
