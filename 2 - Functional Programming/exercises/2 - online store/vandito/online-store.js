@@ -22,8 +22,7 @@ function makeOrder(name) {
 }
 
 function pay(order, paymentAdapter) {
-    paymentAdapter(order)
-    return new Date().getTime();
+    return paymentAdapter(order);
 }
 
 function run() {
