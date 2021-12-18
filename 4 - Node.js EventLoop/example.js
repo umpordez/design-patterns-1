@@ -1,5 +1,3 @@
-const cluster = require('cluster');
-
 function blockEventLoopFor(ms) {
     const started = process.hrtime.bigint();
     const nanoseconds = ms * 1e6;
