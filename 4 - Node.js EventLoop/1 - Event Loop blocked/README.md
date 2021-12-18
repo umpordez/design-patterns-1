@@ -22,3 +22,5 @@ Interval took: 1003
 ```
 
 The took of interval should never be 3000+
+
+**Bonus** Refactor the code to use `Strategy` Pattern, maybe also use an `Observer` ? :)
