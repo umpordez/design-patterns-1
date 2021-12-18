@@ -16,3 +16,9 @@ will see that this is basically the Observer pattern in action.
 
 
 Main Thread > (execution threads) > Main Thread > (execution threads)
+
+Further reading;
+
+- https://blog.deividy.com/post/2018-02-06-funcionamento-interno-nodejs.html
+
+![event loop](./event-loop.png)
