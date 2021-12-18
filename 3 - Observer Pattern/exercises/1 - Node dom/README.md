@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] Implements the `.emit()` method in Dom class
+- [ ] Implements the `.trigger()` method in Dom class
 
 Expected output is:
 
