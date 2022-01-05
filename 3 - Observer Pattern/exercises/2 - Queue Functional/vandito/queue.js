@@ -8,7 +8,11 @@ const events = (function anonymousFunction() {
 
     function once(eventName, handler) {
         // Hey, how can this work? :thinking:...
-        handler();
+        function h() {
+            off(eventName, h);
+            handler.apply(handler, arguments);
+        }
+        this.on(eventName, h);
     }
 
     function off(eventName, handler) {
